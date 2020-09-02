@@ -1992,6 +1992,72 @@
 			"settings": {
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#A54DC0"
+			}
+		},
+		{
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#A54DC0"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#A54DC0"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#A54DC0"
+			}
+		},
+		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#7855CF"
+			}
+		},
+		{
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#7855CF"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#C296E0"
+			}
+		},
+		{
+			"scope": "entity.name.variable",
+			"settings": {
+				"foreground": "#C296E0"
+			}
+		},
+		{
+			"scope": "variable.other",
+			"settings": {
+				"foreground": "#C296E0"
+			}
+		},
+		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#DDD0D3"
+			}
+		},
+		{
+			"scope": "variable.other.readwrite",
+			"settings": {
+				"foreground": "#E2424A"
+			}
 		}
 	]
 }
