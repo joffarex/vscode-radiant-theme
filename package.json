@@ -17,5 +17,9 @@
                 "path": "./themes/Radiant-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joffarex/vscode-radiant-theme.git"
     }
 }
