@@ -1,6 +1,7 @@
 {
     "name": "radiant-theme",
     "displayName": "Radiant Theme",
+    "publisher": "joffarex",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"
